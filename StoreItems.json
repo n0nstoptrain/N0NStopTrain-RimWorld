@@ -446,31 +446,31 @@
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_V_disabled"
 	},
@@ -710,31 +710,31 @@
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_II_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_III_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_IV_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_V_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_disabled"
 	},
@@ -878,31 +878,31 @@
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_I_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_II_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_III_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_IV_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
@@ -1184,31 +1184,31 @@
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_I_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_II_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_III_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_IV_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_V_disabled"
 	},
@@ -1562,31 +1562,31 @@
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_II_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_III_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_IV_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_V_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_disabled"
 	},
@@ -1874,31 +1874,31 @@
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_I_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_II_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_III_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_IV_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
@@ -2414,7 +2414,7 @@
 	},
 	{
 		"abr": "omnibot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Omni_V_disabled"
 	},
@@ -3659,7 +3659,2101 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "141fleece",
+		"price": 550,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_141Fleece"
+	},
+	{
+		"abr": "141fleeceblack",
+		"price": 550,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_141FleeceBlack"
+	},
+	{
+		"abr": "141fleeceolive",
+		"price": 550,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_141FleeceOlive"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "5.11tactecbodyarmor(contractor)",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_511TacTec_Contractor"
+	},
+	{
+		"abr": "aa-12",
+		"price": 675,
+		"category": "Shotgun",
+		"defname": "RNGun_AA12S"
+	},
+	{
+		"abr": "aa-12contractor",
+		"price": 675,
+		"category": "Shotgun",
+		"defname": "RNGun_AA12ContractorS"
+	},
+	{
+		"abr": "acrcontractor",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_ACRContractorAR"
+	},
+	{
+		"abr": "acrmercenary",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_ACRMercenaryAR"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedradiationblocker",
+		"price": 792,
+		"category": "Furniture",
+		"defname": "RadiologyBlockerAdvanced"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1333,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "ak47tactical",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK47ModernAR"
+	},
+	{
+		"abr": "ancientcryptosleepcasket",
+		"price": 617,
+		"category": "Misc",
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 2250,
+		"category": "Items",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 675,
+		"category": "Production",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anti-materielrifle",
+		"price": 1267,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSAMRifle"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "archotecharchotechbio-reactor",
+		"price": 6667,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5333,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6667,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3667,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5833,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "assaultarmor",
+		"price": 3717,
+		"category": "Apparel",
+		"defname": "Apparel_Bjorn"
+	},
+	{
+		"abr": "assaultcharger",
+		"price": 2508,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultCharger"
+	},
+	{
+		"abr": "assaulthammer",
+		"price": 1367,
+		"category": "Melee weapons",
+		"defname": "JI_Ormbane"
+	},
+	{
+		"abr": "assaulthelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "Apparel_BjornH"
+	},
+	{
+		"abr": "autocannonturret",
+		"price": 2117,
+		"category": "Security",
+		"defname": "Turret_Autocannon"
+	},
+	{
+		"abr": "autodoor",
+		"price": 323,
+		"category": "Structure",
+		"defname": "Autodoor"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 900,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "balaclavaghost",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_Balaclava_Ghost"
+	},
+	{
+		"abr": "baseballcapa-tacsau",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PatchCap_ATACSAU"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 1167,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBattleRifle"
+	},
+	{
+		"abr": "biofuelrefinery",
+		"price": 650,
+		"category": "Production",
+		"defname": "BiofuelRefinery"
+	},
+	{
+		"abr": "blowgun",
+		"price": 221,
+		"category": "Ranged weapons",
+		"defname": "Gun_Blowgun"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": -10,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "bone",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BoneItem"
+	},
+	{
+		"abr": "bonearmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "Sihv_Apparel_BoneArmor"
+	},
+	{
+		"abr": "boneash",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "BoneChina"
+	},
+	{
+		"abr": "bonechair",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "BoneChair"
+	},
+	{
+		"abr": "bonemarrow",
+		"price": 2,
+		"category": "Foods",
+		"defname": "ROMB_Marrow"
+	},
+	{
+		"abr": "bonecrete",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Bonecrete"
+	},
+	{
+		"abr": "booniehatdcu",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_DCUBoonie"
+	},
+	{
+		"abr": "burstcharger",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "Gun_BurstCharger"
+	},
+	{
+		"abr": "calciumpolymer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BonePlastic"
+	},
+	{
+		"abr": "campfire",
+		"price": 41,
+		"category": "Temperature",
+		"defname": "Campfire"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSCarbine"
+	},
+	{
+		"abr": "carbonjumpsuit",
+		"price": 319,
+		"category": "Apparel",
+		"defname": "Carbonsuit"
+	},
+	{
+		"abr": "carver",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "Carver"
+	},
+	{
+		"abr": "chargedriver",
+		"price": 2192,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeDriver"
+	},
+	{
+		"abr": "chargesidearm",
+		"price": 850,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeSidearm"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemfuelpoweredgenerator",
+		"price": 492,
+		"category": "Power",
+		"defname": "ChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "chinalakemercenary",
+		"price": 2500,
+		"category": "Grenade launcher",
+		"defname": "RNEx_ChinaLakeMercenaryGL"
+	},
+	{
+		"abr": "cleaver",
+		"price": 288,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralCleaver"
+	},
+	{
+		"abr": "closecombatarmor",
+		"price": 4050,
+		"category": "Apparel",
+		"defname": "Apparel_CloseCombatArmor"
+	},
+	{
+		"abr": "closecombathelmet",
+		"price": 1092,
+		"category": "Headgear",
+		"defname": "Apparel_CloseCombatHelmet"
+	},
+	{
+		"abr": "combatblade",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "GD_Sabertooth"
+	},
+	{
+		"abr": "combatuniformblack",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Black"
+	},
+	{
+		"abr": "commsconsole",
+		"price": 608,
+		"category": "Misc",
+		"defname": "CommsConsole"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 542,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound"
+	},
+	{
+		"abr": "cooler",
+		"price": 458,
+		"category": "Temperature",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 667,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 667,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 667,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1167,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 667,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "cryecagebodyarmor(141)",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_CryeCAGE_141TaskForce"
+	},
+	{
+		"abr": "cryptosleepcasket",
+		"price": 1183,
+		"category": "Misc",
+		"defname": "CryptosleepCasket"
+	},
+	{
+		"abr": "crystallinestructurefoundry",
+		"price": 1117,
+		"category": "Production",
+		"defname": "YPTable"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3333,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9167,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "deerskullmask",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROMB_Apparel_DeerSkullMask"
+	},
+	{
+		"abr": "door",
+		"price": 88,
+		"category": "Structure",
+		"defname": "Door"
+	},
+	{
+		"abr": "dropsuit",
+		"price": 3858,
+		"category": "Apparel",
+		"defname": "Apparel_Dropsuit"
+	},
+	{
+		"abr": "dropsuithelmet",
+		"price": 1200,
+		"category": "Headgear",
+		"defname": "Apparel_DropsuitH"
+	},
+	{
+		"abr": "dummy",
+		"price": 725,
+		"category": "Security",
+		"defname": "RSDummy"
+	},
+	{
+		"abr": "electriccrematorium",
+		"price": 700,
+		"category": "Production",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "emprifle",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPRifle"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "equipmentassemblyfacility",
+		"price": 608,
+		"category": "Production",
+		"defname": "GDTable"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "exo-frame",
+		"price": 2083,
+		"category": "Apparel",
+		"defname": "Apparel_Exoframe"
+	},
+	{
+		"abr": "fabricationbench",
+		"price": 1967,
+		"category": "Production",
+		"defname": "FabricationBench"
+	},
+	{
+		"abr": "feralanti-materialrifle",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "Gun_Crucifier"
+	},
+	{
+		"abr": "feralcrankgun",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_SkullBuster"
+	},
+	{
+		"abr": "feralexosuit",
+		"price": 6000,
+		"category": "Apparel",
+		"defname": "Apparel_FeralExo"
+	},
+	{
+		"abr": "feralexosuithelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "Apparel_FeralExoH"
+	},
+	{
+		"abr": "feralflamethrower",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scorcher"
+	},
+	{
+		"abr": "feralgasmask",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ScorcherHelmet"
+	},
+	{
+		"abr": "feralhelmet",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_GrinderHelmet"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_HuskerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_SkulkerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ThumperHood"
+	},
+	{
+		"abr": "feralmail",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_FeralMail"
+	},
+	{
+		"abr": "feralnailgun",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gnasher"
+	},
+	{
+		"abr": "feralpistols",
+		"price": 125,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scraptooth"
+	},
+	{
+		"abr": "feralratsticks",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_RatStick"
+	},
+	{
+		"abr": "feralrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thrasher"
+	},
+	{
+		"abr": "feralrocketlauncher",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thumper"
+	},
+	{
+		"abr": "feralscattergun",
+		"price": 233,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterStick"
+	},
+	{
+		"abr": "feralsubmachineguns",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deathdealer"
+	},
+	{
+		"abr": "firesupportarmor",
+		"price": 4217,
+		"category": "Apparel",
+		"defname": "Apparel_FSArmor"
+	},
+	{
+		"abr": "firesupporthelmet",
+		"price": 1317,
+		"category": "Headgear",
+		"defname": "Apparel_FSArmorH"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1333,
+		"category": "Drugs",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "frontierrifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Gun_FR"
+	},
+	{
+		"abr": "fuelbarrel",
+		"price": 350,
+		"category": "Security",
+		"defname": "FuelBarrel"
+	},
+	{
+		"abr": "g36chrt",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_G36CHRT"
+	},
+	{
+		"abr": "gdbuckshotlauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_BSLauncher"
+	},
+	{
+		"abr": "gdhvsmg",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GD_HVSMG"
+	},
+	{
+		"abr": "gdincendiarylauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_INGrenadeLauncher"
+	},
+	{
+		"abr": "gdmultilauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_GrenadeLauncher"
+	},
+	{
+		"abr": "gdsmokelauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_SKGrenadeLauncher"
+	},
+	{
+		"abr": "gelatin",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "ROMB_Gelatin"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "geothermalgenerator",
+		"price": 1575,
+		"category": "Power",
+		"defname": "GeothermalGenerator"
+	},
+	{
+		"abr": "ghilliesuitreaper",
+		"price": 219,
+		"category": "Combat jackets",
+		"defname": "RNApparel_GhillieSuitReaper"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralGlaive"
+	},
+	{
+		"abr": "ground-penetratingscanner",
+		"price": 1692,
+		"category": "Misc",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "hazardcarapace",
+		"price": 4058,
+		"category": "Apparel",
+		"defname": "Apparel_HazardCarapace"
+	},
+	{
+		"abr": "hazardhelmet",
+		"price": 1108,
+		"category": "Headgear",
+		"defname": "Apparel_HazardCarapaceH"
+	},
+	{
+		"abr": "heavyrevolver",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Gun_PistolHeavyRevolver"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hi-techresearchbench",
+		"price": 1383,
+		"category": "Production",
+		"defname": "HiTechResearchBench"
+	},
+	{
+		"abr": "hopper",
+		"price": 49,
+		"category": "Production",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "hydroponicsbasin",
+		"price": 383,
+		"category": "Production",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "impactgrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "TE_Grief"
+	},
+	{
+		"abr": "impactmine",
+		"price": 492,
+		"category": "Security",
+		"defname": "ImpactMine"
+	},
+	{
+		"abr": "interceptorbodyarmor(contractor)",
+		"price": 450,
+		"category": "Body armor",
+		"defname": "RNApparel_IBAUCVest"
+	},
+	{
+		"abr": "intermediateirradiator",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "RadiologyIrradiatorIntermediate"
+	},
+	{
+		"abr": "intermediateradiationblocker",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "RadiologyBlockerIntermediate"
+	},
+	{
+		"abr": "intervention",
+		"price": 950,
+		"category": "AMR",
+		"defname": "RNGun_InterventionSn"
+	},
+	{
+		"abr": "interventionreaper",
+		"price": 950,
+		"category": "Bolt action",
+		"defname": "RNGun_InterventionReaperSn"
+	},
+	{
+		"abr": "irradiator",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "RadiologyIrradiator"
+	},
+	{
+		"abr": "jiamr",
+		"price": 2142,
+		"category": "JI weapons",
+		"defname": "JI_Gramr"
+	},
+	{
+		"abr": "jimoltenpistol",
+		"price": 900,
+		"category": "JI weapons",
+		"defname": "JI_Trollsverd"
+	},
+	{
+		"abr": "jimoltenrifle",
+		"price": 1583,
+		"category": "JI weapons",
+		"defname": "JI_Hrunting"
+	},
+	{
+		"abr": "jisiegegun",
+		"price": 4142,
+		"category": "JI weapons",
+		"defname": "JI_Grendel"
+	},
+	{
+		"abr": "jisiegeshotgun",
+		"price": 2017,
+		"category": "JI weapons",
+		"defname": "JI_Fafnir"
+	},
+	{
+		"abr": "jisuppressorcannon",
+		"price": 2183,
+		"category": "JI weapons",
+		"defname": "JI_Muspell"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 14167,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "kineticfieldmanipulator",
+		"price": 1142,
+		"category": "Production",
+		"defname": "TETable"
+	},
+	{
+		"abr": "krissvector",
+		"price": 533,
+		"category": "SMG and PDW",
+		"defname": "RNGun_KrissVectorContractor_PDW"
+	},
+	{
+		"abr": "long-rangemineralscanner",
+		"price": 1625,
+		"category": "Misc",
+		"defname": "LongRangeMineralScanner"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "m1014",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_M1014S"
+	},
+	{
+		"abr": "m1014contractor",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_M1014ContractorS"
+	},
+	{
+		"abr": "m110sass",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M110SASSDMR"
+	},
+	{
+		"abr": "m14ebr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M14EBR"
+	},
+	{
+		"abr": "m39emr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M39EMR"
+	},
+	{
+		"abr": "m4a1benghazi",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Benghazi"
+	},
+	{
+		"abr": "m4a1fallujah",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Fallujah"
+	},
+	{
+		"abr": "m4a1ghost",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Ghost"
+	},
+	{
+		"abr": "m4a1roach",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1RoachAR"
+	},
+	{
+		"abr": "m4a1warfighter",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Warfighter"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "madness",
+		"price": 4167,
+		"category": "Grenades",
+		"defname": "Weapon_MADness"
+	},
+	{
+		"abr": "magneticforge",
+		"price": 1225,
+		"category": "Production",
+		"defname": "JITable"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "methadone",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "Methadone"
+	},
+	{
+		"abr": "michhelmetbreezy",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Breezy"
+	},
+	{
+		"abr": "michhelmetroach",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Roach"
+	},
+	{
+		"abr": "michhelmetscarecrow",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Scarecrow"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "microwavegrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "YP_BaegYa"
+	},
+	{
+		"abr": "militiarifle",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Gun_MilitiaRifle"
+	},
+	{
+		"abr": "minigrenades",
+		"price": 575,
+		"category": "Grenades",
+		"defname": "GD_Bobcat"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "missilelauncher",
+		"price": 1092,
+		"category": "Security",
+		"defname": "NestMissile"
+	},
+	{
+		"abr": "modularacceleratorkit",
+		"price": 858,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitH"
+	},
+	{
+		"abr": "modularcarbine",
+		"price": 675,
+		"category": "GD weapons",
+		"defname": "GD_ModularCarbine"
+	},
+	{
+		"abr": "modulardmr",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularDMR"
+	},
+	{
+		"abr": "modularflakker",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSF"
+	},
+	{
+		"abr": "modularhybridpistol",
+		"price": 1467,
+		"category": "GD weapons",
+		"defname": "GD_MSSH"
+	},
+	{
+		"abr": "modularhybridrifle",
+		"price": 1533,
+		"category": "GD weapons",
+		"defname": "GD_HybridRifle"
+	},
+	{
+		"abr": "modularlmg",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularLMG"
+	},
+	{
+		"abr": "modularrifle",
+		"price": 900,
+		"category": "GD weapons",
+		"defname": "GD_ModularRifle"
+	},
+	{
+		"abr": "modularsidearmsystemkit",
+		"price": 608,
+		"category": "Modular conversion kit",
+		"defname": "MSSKit"
+	},
+	{
+		"abr": "modularspitfire",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSS"
+	},
+	{
+		"abr": "modulartriple-shot",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSST"
+	},
+	{
+		"abr": "moisturepump",
+		"price": 458,
+		"category": "Misc",
+		"defname": "MoisturePump"
+	},
+	{
+		"abr": "moltenshell",
+		"price": 6,
+		"category": "Molten shells",
+		"defname": "MoltenShell"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "mp5a2hrt",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2SDHRT_PDW"
+	},
+	{
+		"abr": "mp5a3contractor",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A3Contractor_PDW"
+	},
+	{
+		"abr": "mreration",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Civilian"
+	},
+	{
+		"abr": "mrsdmrconversionkit",
+		"price": 342,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitM"
+	},
+	{
+		"abr": "mrslmgconversionkit",
+		"price": 342,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitS"
+	},
+	{
+		"abr": "mrsrifleconversionkit",
+		"price": 228,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitR"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "nervesuit",
+		"price": 3567,
+		"category": "Apparel",
+		"defname": "Apparel_Nervesuit"
+	},
+	{
+		"abr": "nervesuithelmet",
+		"price": 1117,
+		"category": "Headgear",
+		"defname": "Apparel_NervesuitH"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "nutrientpastedispenser",
+		"price": 458,
+		"category": "Production",
+		"defname": "NutrientPasteDispenser"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "ogronmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Ogron"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "over-wallcooler",
+		"price": 458,
+		"category": "Temperature",
+		"defname": "Cooler_Over"
+	},
+	{
+		"abr": "over-wallcooler(wide)",
+		"price": 458,
+		"category": "Temperature",
+		"defname": "Cooler_Over2W"
+	},
+	{
+		"abr": "over-wallvent",
+		"price": 97,
+		"category": "Temperature",
+		"defname": "Vent_Over"
+	},
+	{
+		"abr": "p90contractor",
+		"price": 367,
+		"category": "SMG and PDW",
+		"defname": "RNGun_P90Contractor_PDW"
+	},
+	{
+		"abr": "parkaa-tacsau",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka_ATACSAU"
+	},
+	{
+		"abr": "passivecooler",
+		"price": 101,
+		"category": "Temperature",
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "patchedshirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_PatchedShirt"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "pioneerarmor",
+		"price": 1950,
+		"category": "Apparel",
+		"defname": "Apparel_Laconian"
+	},
+	{
+		"abr": "pioneerhelmet",
+		"price": 967,
+		"category": "Headgear",
+		"defname": "Apparel_LaconianH"
+	},
+	{
+		"abr": "pkm",
+		"price": 700,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_PKMLMG"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1333,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "podlauncher",
+		"price": 230,
+		"category": "Misc",
+		"defname": "PodLauncher"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "portablemg",
+		"price": 842,
+		"category": "Security",
+		"defname": "NestMMG"
+	},
+	{
+		"abr": "portablereactor",
+		"price": 2775,
+		"category": "Security",
+		"defname": "PortableReactor"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2667,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "powerconduit",
+		"price": 3,
+		"category": "Power",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "powerswitch",
+		"price": 102,
+		"category": "Power",
+		"defname": "PowerSwitch"
+	},
+	{
+		"abr": "protectivegear",
+		"price": 783,
+		"category": "Apparel",
+		"defname": "Apparel_ProtectiveGear"
+	},
+	{
+		"abr": "protectivehelmet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Apparel_ProtectiveHelmet"
+	},
+	{
+		"abr": "pta-bravohelmetcontractor",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_olive"
+	},
+	{
+		"abr": "pta-bravohelmetgrey",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_grey"
+	},
+	{
+		"abr": "pta-bravohelmetm50cbrn",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_M50Gasmask"
+	},
+	{
+		"abr": "pta-bravohelmetreaper",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_Reaper"
+	},
+	{
+		"abr": "pta-bravohelmetspecopsa",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_SpecOpsA"
+	},
+	{
+		"abr": "pta-bravohelmetspecopsb",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_SpecOpsB"
+	},
+	{
+		"abr": "radiationblocker",
+		"price": 284,
+		"category": "Furniture",
+		"defname": "RadiologyBlocker"
+	},
+	{
+		"abr": "radiationfilter",
+		"price": 284,
+		"category": "Furniture",
+		"defname": "RadiologyFilter"
+	},
+	{
+		"abr": "radiationmonitor",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "RadiologyMonitor"
+	},
+	{
+		"abr": "razortoothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Razortooth"
+	},
+	{
+		"abr": "reflactorcarapace",
+		"price": 3350,
+		"category": "Apparel",
+		"defname": "Apparel_Nemesis"
+	},
+	{
+		"abr": "reflactorhelmet",
+		"price": 1117,
+		"category": "Headgear",
+		"defname": "Apparel_NemesisH"
+	},
+	{
+		"abr": "repairkit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "repeatingrifle",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "Gun_Repeater"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "rpd",
+		"price": 733,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_RPD"
+	},
+	{
+		"abr": "rpg-7",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_RPG7RL"
+	},
+	{
+		"abr": "sandbags",
+		"price": 17,
+		"category": "Security",
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": 214,
+		"category": "Misc",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "satchelcharge",
+		"price": 1017,
+		"category": "Grenades",
+		"defname": "JI_Dunder"
+	},
+	{
+		"abr": "scarmk20ssrcontractor",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SCARMk20ContractorDMR"
+	},
+	{
+		"abr": "scar-hcontractor",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_SCARHContractorAR"
+	},
+	{
+		"abr": "scar-hmercenary",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_SCARHMercenaryAR"
+	},
+	{
+		"abr": "scattercharger",
+		"price": 1700,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterCharger"
+	},
+	{
+		"abr": "scavbench",
+		"price": 286,
+		"category": "Production",
+		"defname": "FeralTable"
+	},
+	{
+		"abr": "scraparmor",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "Apparel_ScrapArmor"
+	},
+	{
+		"abr": "sensorcluster",
+		"price": 3008,
+		"category": "Ship",
+		"defname": "Ship_SensorCluster"
+	},
+	{
+		"abr": "shadarkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Shadark"
+	},
+	{
+		"abr": "shardsentry",
+		"price": 1433,
+		"category": "Security",
+		"defname": "ShardSentry"
+	},
+	{
+		"abr": "shipcomputercore",
+		"price": 9742,
+		"category": "Ship",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "shipcryptosleepcasket",
+		"price": 1725,
+		"category": "Ship",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "shipengine",
+		"price": 5925,
+		"category": "Ship",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "shipreactor",
+		"price": 9067,
+		"category": "Ship",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "shipstructuralbeam",
+		"price": 1775,
+		"category": "Ship",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "skullmask",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROMB_Apparel_SkullMask"
+	},
+	{
+		"abr": "skullthrone",
+		"price": 1675,
+		"category": "Furniture",
+		"defname": "BoneThrone"
+	},
+	{
+		"abr": "smartmachinegun",
+		"price": 1408,
+		"category": "Ranged weapons",
+		"defname": "SmartMG"
+	},
+	{
+		"abr": "smartpistol",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartPistol"
+	},
+	{
+		"abr": "smartrifle",
+		"price": 2483,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartRifle"
+	},
+	{
+		"abr": "smartsmg",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "Gun_SMG"
+	},
+	{
+		"abr": "smartsniperrifle",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartSniperRifle"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 358,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 492,
+		"category": "Power",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "spectre(codered)",
+		"price": 2000,
+		"category": "Air support",
+		"defname": "RNAir_RedSpectre"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "surveillanceturret",
+		"price": 1558,
+		"category": "Security",
+		"defname": "SuvTurret"
+	},
+	{
+		"abr": "survivalknife",
+		"price": 342,
+		"category": "Melee weapons",
+		"defname": "TE_Eris"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "t1android",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": 8000,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": 10000,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "tac-50",
+		"price": 883,
+		"category": "AMR",
+		"defname": "RNGun_TAC50Sn"
+	},
+	{
+		"abr": "tacticalhelmet",
+		"price": 533,
+		"category": "Headgear",
+		"defname": "Apparel_TacHelmet"
+	},
+	{
+		"abr": "tacticalpistol",
+		"price": 433,
+		"category": "Ranged weapons",
+		"defname": "GD_TacticalPistol"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 875,
+		"category": "Apparel",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tekineticlance",
+		"price": 2942,
+		"category": "TE weapons",
+		"defname": "TE_KineticLance"
+	},
+	{
+		"abr": "tekineticlongrifle",
+		"price": 1933,
+		"category": "TE weapons",
+		"defname": "TE_KineticLongRifle"
+	},
+	{
+		"abr": "tekineticpistol",
+		"price": 900,
+		"category": "TE weapons",
+		"defname": "TE_KineticPistol"
+	},
+	{
+		"abr": "tekineticrifle",
+		"price": 1700,
+		"category": "TE weapons",
+		"defname": "TE_KineticRifle"
+	},
+	{
+		"abr": "testormcannon",
+		"price": 2950,
+		"category": "TE weapons",
+		"defname": "TE_StormCannon"
+	},
+	{
+		"abr": "tethuddgun",
+		"price": 2075,
+		"category": "TE weapons",
+		"defname": "TE_ThuddGun"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 550,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingAxes"
+	},
+	{
+		"abr": "throwingclubs",
+		"price": 163,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingClubs"
+	},
+	{
+		"abr": "torchlamp",
+		"price": 41,
+		"category": "Furniture",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "torchsword",
+		"price": 1242,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_TorchSword"
+	},
+	{
+		"abr": "transportpod",
+		"price": 253,
+		"category": "Misc",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Twisted"
+	},
+	{
+		"abr": "ump45contractor",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45Contractor_PDW"
+	},
+	{
+		"abr": "ump45hrt",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45HRT_PDW"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "uraniumslugturret",
+		"price": 2408,
+		"category": "Security",
+		"defname": "Turret_Sniper"
+	},
+	{
+		"abr": "vent",
+		"price": 97,
+		"category": "Temperature",
+		"defname": "Vent"
+	},
+	{
+		"abr": "vibrodaggers",
+		"price": 1325,
+		"category": "Melee weapons",
+		"defname": "YP_BingJu"
+	},
+	{
+		"abr": "vssvintorezcontractor",
+		"price": 467,
+		"category": "DMR",
+		"defname": "RNGun_VSSContractorDMR"
+	},
+	{
+		"abr": "wa2000contractor",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_WA2000ContractorDMR"
+	},
+	{
+		"abr": "wall",
+		"price": 17,
+		"category": "Structure",
+		"defname": "Wall"
+	},
+	{
+		"abr": "watermillgenerator",
+		"price": 1000,
+		"category": "Power",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "waterproofconduit",
+		"price": 10,
+		"category": "Power",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "waveemitter",
+		"price": 1933,
+		"category": "Security",
+		"defname": "WaveEmitter"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Power",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "wood-firedgenerator",
+		"price": 442,
+		"category": "Power",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "ypdualwieldshardpistols",
+		"price": 1842,
+		"category": "YP weapons",
+		"defname": "YP_SeolHwa"
+	},
+	{
+		"abr": "ypmicrowaveemmiter",
+		"price": 2475,
+		"category": "YP weapons",
+		"defname": "YP_GeugGwang"
+	},
+	{
+		"abr": "ypshardrifle",
+		"price": 1742,
+		"category": "YP weapons",
+		"defname": "YP_SeoLi"
+	},
+	{
+		"abr": "ypspikerifle",
+		"price": 2200,
+		"category": "YP weapons",
+		"defname": "YP_SangAe"
+	},
+	{
+		"abr": "ypswarmer",
+		"price": 1600,
+		"category": "YP weapons",
+		"defname": "YP_SagPung"
+	},
+	{
+		"abr": "ypvectorshot",
+		"price": 2300,
+		"category": "YP weapons",
+		"defname": "YP_VectorShot"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
 	}
 	],
-	"total": 610
+	"total": 959
 }
