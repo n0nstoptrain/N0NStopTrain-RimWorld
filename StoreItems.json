@@ -685,6 +685,18 @@
 		"defname": "Leather_Bird"
 	},
 	{
+		"abr": "birthcontrol",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "BirthControl"
+	},
+	{
+		"abr": "blackboard",
+		"price": 358,
+		"category": "Production",
+		"defname": "Blackboard"
+	},
+	{
 		"abr": "blastturret",
 		"price": 1800,
 		"category": "Security",
@@ -818,31 +830,31 @@
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_V_disabled"
 	},
@@ -1160,31 +1172,31 @@
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_II_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_III_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_IV_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_V_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_disabled"
 	},
@@ -1382,31 +1394,31 @@
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_I_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_II_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_III_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_IV_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
@@ -1838,31 +1850,31 @@
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_I_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_II_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_III_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_IV_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_V_disabled"
 	},
@@ -2051,6 +2063,12 @@
 		"price": 46,
 		"category": "Furniture",
 		"defname": "Ferris"
+	},
+	{
+		"abr": "fertilitybooster",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "FertilityBooster"
 	},
 	{
 		"abr": "filecabinet",
@@ -2450,31 +2468,31 @@
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_II_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_III_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_IV_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_V_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_disabled"
 	},
@@ -2924,31 +2942,31 @@
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_I_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_II_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_III_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_IV_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
@@ -3812,7 +3830,7 @@
 	},
 	{
 		"abr": "omnibot(disabled)",
-		"price": -10,
+		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Omni_V_disabled"
 	},
@@ -4175,6 +4193,12 @@
 		"price": 1600,
 		"category": "Security",
 		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "pregnancytest",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "PregnancyTest"
 	},
 	{
 		"abr": "prostheticarm",
@@ -4649,6 +4673,12 @@
 		"price": 286,
 		"category": "Production",
 		"defname": "FeralTable"
+	},
+	{
+		"abr": "schooltable",
+		"price": 281,
+		"category": "Production",
+		"defname": "SchoolTable"
 	},
 	{
 		"abr": "scraparmor",
@@ -5755,5 +5785,5 @@
 		"defname": "AnimalMindImplant"
 	}
 	],
-	"total": 959
+	"total": 964
 }
