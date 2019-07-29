@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -112,12 +112,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 50,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -172,12 +167,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -291,11 +286,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -303,7 +293,7 @@
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "removetrait",
@@ -346,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 67
 }
