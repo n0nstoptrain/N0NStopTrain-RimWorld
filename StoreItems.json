@@ -73,6 +73,18 @@
 		"defname": "AndroidT2Kit"
 	},
 	{
+		"abr": "advancedarchotecharm",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechArm"
+	},
+	{
+		"abr": "advancedarchotechleg",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechLeg"
+	},
+	{
 		"abr": "advancedbatterypack",
 		"price": 2833,
 		"category": "Android",
@@ -343,10 +355,34 @@
 		"defname": "SecretBatteryPack"
 	},
 	{
+		"abr": "archotechbrainmelder",
+		"price": 13333,
+		"category": "Artificial",
+		"defname": "ArchotechBrainMelder"
+	},
+	{
 		"abr": "archotechcoolantpump",
 		"price": 6667,
 		"category": "Android",
 		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechdeathclaw",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechDeathClaw"
+	},
+	{
+		"abr": "archotechdenture",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechDenture"
+	},
+	{
+		"abr": "archotechear",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechEar"
 	},
 	{
 		"abr": "archotecheye",
@@ -361,10 +397,22 @@
 		"defname": "ArchHearingS"
 	},
 	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechHeart"
+	},
+	{
 		"abr": "archotechheatsink",
 		"price": 7500,
 		"category": "Android",
 		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechKidney"
 	},
 	{
 		"abr": "archotechleg",
@@ -379,16 +427,52 @@
 		"defname": "MDEye"
 	},
 	{
+		"abr": "archotechliver",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLung"
+	},
+	{
 		"abr": "archotechmechanitestorage",
 		"price": 7500,
 		"category": "Android",
 		"defname": "ArchotechNanites"
 	},
 	{
+		"abr": "archotechobliterator",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechObliterator"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechPelvis"
+	},
+	{
 		"abr": "archotechpowerconverter",
 		"price": 5833,
 		"category": "Android",
 		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechStomach"
 	},
 	{
 		"abr": "arcticfox",
@@ -401,6 +485,12 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
+	},
+	{
+		"abr": "arm",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Arm"
 	},
 	{
 		"abr": "armchair",
@@ -437,6 +527,12 @@
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Textiles",
+		"defname": "Attomachinery"
 	},
 	{
 		"abr": "autocannonturret",
@@ -521,6 +617,12 @@
 		"price": 91,
 		"category": "Hats",
 		"defname": "RNApparel_PatchCap_ATACSAU"
+	},
+	{
+		"abr": "basicarchotechworkbench",
+		"price": 2617,
+		"category": "Production",
+		"defname": "BasicArchotechWorkbench"
 	},
 	{
 		"abr": "basiccounterweight",
@@ -695,6 +797,18 @@
 		"price": 358,
 		"category": "Production",
 		"defname": "Blackboard"
+	},
+	{
+		"abr": "blastdoor(2x1)",
+		"price": 1525,
+		"category": "Buildings",
+		"defname": "PH_DoorBlastDoor"
+	},
+	{
+		"abr": "blastdoor(3x2)",
+		"price": 2467,
+		"category": "Buildings",
+		"defname": "PH_DoorThickBlastDoor"
 	},
 	{
 		"abr": "blastturret",
@@ -1537,6 +1651,12 @@
 		"defname": "CookingMindImplant"
 	},
 	{
+		"abr": "curtain(tribal)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
 		"abr": "cushionedchair",
 		"price": 195,
 		"category": "Furniture",
@@ -1627,6 +1747,18 @@
 		"defname": "Door"
 	},
 	{
+		"abr": "door(1x2)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 260,
+		"category": "Buildings",
+		"defname": "PH_DoorTriple"
+	},
+	{
 		"abr": "doublebed",
 		"price": 292,
 		"category": "Furniture",
@@ -1697,6 +1829,12 @@
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "ear",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Ear"
 	},
 	{
 		"abr": "eldersconescabinet",
@@ -1927,6 +2065,12 @@
 		"defname": "Apparel_SlaveCollar_Explosive"
 	},
 	{
+		"abr": "eyeball",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
 		"abr": "fabricationbench",
 		"price": 1967,
 		"category": "Production",
@@ -2143,6 +2287,12 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
 		"abr": "foundationmaterial",
 		"price": 3,
 		"category": "Raw resources",
@@ -2231,6 +2381,12 @@
 		"price": 313,
 		"category": "Headgear",
 		"defname": "Apparel_FSGasmask"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 608,
+		"category": "Buildings",
+		"defname": "PH_GateDoubleThick"
 	},
 	{
 		"abr": "gazelle",
@@ -2411,6 +2567,12 @@
 		"price": 167,
 		"category": "Cartridges",
 		"defname": "AJO_CartHL"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Hand"
 	},
 	{
 		"abr": "handcannon",
@@ -2779,6 +2941,12 @@
 		"defname": "ImpactMine"
 	},
 	{
+		"abr": "improvisedshipturret(boxed)",
+		"price": 1667,
+		"category": "Weapons",
+		"defname": "ShipTurretTemplate"
+	},
+	{
 		"abr": "incendiarylauncher",
 		"price": 508,
 		"category": "Ranged weapons",
@@ -2873,6 +3041,18 @@
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 542,
+		"category": "Buildings",
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "jaw",
+		"price": 125,
+		"category": "Natural",
+		"defname": "Jaw"
 	},
 	{
 		"abr": "jiamr",
@@ -3053,6 +3233,12 @@
 		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish"
+	},
+	{
+		"abr": "leg",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Leg"
 	},
 	{
 		"abr": "lightleather",
@@ -3763,6 +3949,12 @@
 		"defname": "Meat_RoboticCow"
 	},
 	{
+		"abr": "nanomachinery",
+		"price": 167,
+		"category": "Textiles",
+		"defname": "Nanomachinery"
+	},
+	{
 		"abr": "negotiatorimplant",
 		"price": 2667,
 		"category": "Android",
@@ -3797,6 +3989,12 @@
 		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
+	},
+	{
+		"abr": "nose",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Nose"
 	},
 	{
 		"abr": "nutrientpastedispenser",
@@ -4031,6 +4229,12 @@
 		"price": 2667,
 		"category": "Animal",
 		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 333,
+		"category": "Textiles",
+		"defname": "Picomachinery"
 	},
 	{
 		"abr": "pig",
@@ -4469,6 +4673,18 @@
 		"price": 1117,
 		"category": "Headgear",
 		"defname": "Apparel_NemesisH"
+	},
+	{
+		"abr": "remotedoor(1x1)",
+		"price": 241,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteSingle"
+	},
+	{
+		"abr": "remotedoor(2x1)",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteDouble"
 	},
 	{
 		"abr": "repairkit",
@@ -5099,6 +5315,12 @@
 		"price": 833,
 		"category": "Android",
 		"defname": "SteelPlating"
+	},
+	{
+		"abr": "stomach",
+		"price": 583,
+		"category": "Natural",
+		"defname": "Stomach"
 	},
 	{
 		"abr": "stonecutter'stable",
@@ -5785,5 +6007,5 @@
 		"defname": "AnimalMindImplant"
 	}
 	],
-	"total": 964
+	"total": 1001
 }
