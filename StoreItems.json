@@ -236,7 +236,7 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
@@ -254,7 +254,7 @@
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
@@ -476,13 +476,13 @@
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
@@ -668,7 +668,7 @@
 	},
 	{
 		"abr": "beagle",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Keanu_Dog"
 	},
@@ -896,7 +896,7 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -908,7 +908,7 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -1046,7 +1046,7 @@
 	},
 	{
 		"abr": "capybara",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Capybara"
 	},
@@ -1076,7 +1076,7 @@
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Caribou"
 	},
@@ -1094,7 +1094,7 @@
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
@@ -1106,7 +1106,7 @@
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cat"
 	},
@@ -1190,7 +1190,7 @@
 	},
 	{
 		"abr": "chemicalprocessingunit",
-		"price": 1333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AndroidChicken"
 	},
@@ -1202,7 +1202,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -1232,7 +1232,7 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cougar"
 	},
@@ -1496,7 +1496,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -1694,7 +1694,7 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Deer"
 	},
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
@@ -1886,7 +1886,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -1910,7 +1910,7 @@
 	},
 	{
 		"abr": "elk",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Elk"
 	},
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Emu"
 	},
@@ -2084,7 +2084,7 @@
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -2390,7 +2390,7 @@
 	},
 	{
 		"abr": "gazelle",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Gazelle"
 	},
@@ -2432,7 +2432,7 @@
 	},
 	{
 		"abr": "gelatin",
-		"price": 13,
+		"price": -10,
 		"category": "Animal products",
 		"defname": "ROMB_Gelatin"
 	},
@@ -2450,7 +2450,7 @@
 	},
 	{
 		"abr": "germanshepherd",
-		"price": 700,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RH_Tactical_GermanShepherd"
 	},
@@ -2534,7 +2534,7 @@
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
@@ -2588,7 +2588,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -2816,7 +2816,7 @@
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Husky"
 	},
@@ -2858,7 +2858,7 @@
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
@@ -2906,7 +2906,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
@@ -2984,7 +2984,7 @@
 	},
 	{
 		"abr": "insectjelly",
-		"price": 13,
+		"price": -10,
 		"category": "Animal products",
 		"defname": "InsectJelly"
 	},
@@ -3194,7 +3194,7 @@
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
@@ -3296,7 +3296,7 @@
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
@@ -3548,7 +3548,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
@@ -3578,7 +3578,7 @@
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
@@ -3836,7 +3836,7 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
@@ -3908,7 +3908,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "n.solutionunit",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticCow"
 	},
@@ -4070,7 +4070,7 @@
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -4148,7 +4148,7 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Panther"
 	},
@@ -4226,7 +4226,7 @@
 	},
 	{
 		"abr": "phytominingunit",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticSheep"
 	},
@@ -4238,7 +4238,7 @@
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Pig"
 	},
@@ -4328,7 +4328,7 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
@@ -4592,7 +4592,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -4628,7 +4628,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -4658,7 +4658,7 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
@@ -4712,7 +4712,7 @@
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
@@ -5162,7 +5162,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -5198,7 +5198,7 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
@@ -5234,7 +5234,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -5384,31 +5384,31 @@
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -5552,7 +5552,7 @@
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -5576,7 +5576,7 @@
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -5606,7 +5606,7 @@
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -5738,7 +5738,7 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
@@ -5876,7 +5876,7 @@
 	},
 	{
 		"abr": "warg",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Warg"
 	},
@@ -5906,7 +5906,7 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WildBoar"
 	},
@@ -5954,7 +5954,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
