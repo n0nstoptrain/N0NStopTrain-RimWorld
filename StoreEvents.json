@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1400,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 3600,
+		"price": 20000,
 		"karmatype": "Bad"
 	},
 	{
@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,37 +217,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 3000,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 3000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -268,6 +258,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -321,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 63
 }
